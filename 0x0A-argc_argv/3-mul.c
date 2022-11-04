@@ -41,9 +41,9 @@ return (n);
 }
 
 /**
-* main - multiplies two numbers
-* @argc: number of arguments
-* @argv: array of arguments
+* main - main
+* @argc: int
+* @argv: char*
 *
 * Return: 0
 */
